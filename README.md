@@ -2,8 +2,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="200" style="margin:10px"/>
   
   <img src="https://github.com/shriram7057/shriram7057/blob/main/LC%202026%20Offer%20Expedition%20Badge.gif?raw=true" width="200" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=java" width="200"/>
-  <img src="https://skillicons.dev/icons?i=python" width="200"/>
+  <img src="https://skillicons.dev/icons?i=java" width="180"/>
+  <img src="https://skillicons.dev/icons?i=python" width="180"/>
   </p>
 
 <h1 align="center">🚀 LeetCode 2026 Offer Expedition Campaign Solutions</h1>
