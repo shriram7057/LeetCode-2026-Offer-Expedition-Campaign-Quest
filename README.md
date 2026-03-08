@@ -232,9 +232,9 @@ This repository contains my solutions for the <b>LeetCode 2026 Offer Expedition 
 ---
 
 
-<h3 align="center">🤝 Connect with Me</h3>
+<h3 align="left">🤝 Connect with Me</h3>
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/shriram7057" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
